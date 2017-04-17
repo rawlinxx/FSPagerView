@@ -80,7 +80,7 @@ public enum FSPagerViewScrollDirection: Int {
     case vertical
 }
 
-@IBDesignable
+
 open class FSPagerView: UIView,UICollectionViewDataSource,UICollectionViewDelegate {
     
     // MARK: - Public properties
